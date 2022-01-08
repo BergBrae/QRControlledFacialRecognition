@@ -16,7 +16,7 @@ The encoded data is then parsed and passed to the program.
 ![Image](images/SS1.png)
 By default, no one is recognized and laser mode is enabled. The red box signifies the person is not authorized, and laser mode is
 shown by the red line from the center of the screen to the right eye.<br><br>
-*Laser mode was designed to work with an accompanying project to implement this software as a security system that points a laser in the eye of an entruder*
+>*Laser mode was designed to work with an accompanying project to implement this software as a security system that points a laser in the eye of an entruder*
 
 ### 2. User added
 ![Image](images/SS2.png)

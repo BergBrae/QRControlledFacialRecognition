@@ -6,10 +6,10 @@ When a code it read by the program, it checks that the password is correct and t
 The encoded data is then parsed and passed to the program.
 
 ## The QR codes allow the following functions:
-- Add user (allows to specify authorization)
-- Change Name
-- Change Authorization
-- Pause/Resume Laser Mode (see below)
+- [Add user (allows to specify authorization)](https://www.icloud.com/shortcuts/2bf8eca27e92450db21591b15c81a3a9)
+- [Change Name](https://www.icloud.com/shortcuts/a217139bd11e4558b486bda270663b61)
+- [Change Authorization](https://www.icloud.com/shortcuts/5493ac5c9d7848a6aea308e01e26870f)
+- [Pause/Resume Laser Mode (see below)](https://www.icloud.com/shortcuts/97f221b0ea9a4f9db150676221eb3e8d)
 
 ## Examples
 ### 1. On Program Run

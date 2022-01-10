@@ -1,4 +1,4 @@
-# QRControlledFacialRecognition
+# QR Controlled Facial Recognition
 A facial recognition program controlled by QR codes produced from iOS shortcuts (linked below).
 
 On the iOS side, the shortcuts encode a string with a hashed password, time and data required to reform the command.
